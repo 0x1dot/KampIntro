@@ -27,8 +27,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "..\OOP2\OOP2.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "..\OOP3\OOP3.csproj", "{79DABC81-6037-4264-A495-9AE23145316F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamingProject", "..\GamingProject\GamingProject.csproj", "{F3877ACA-1178-460D-95E8-780577C3348F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,10 +81,6 @@ Global
 		{79DABC81-6037-4264-A495-9AE23145316F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79DABC81-6037-4264-A495-9AE23145316F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79DABC81-6037-4264-A495-9AE23145316F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F3877ACA-1178-460D-95E8-780577C3348F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F3877ACA-1178-460D-95E8-780577C3348F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F3877ACA-1178-460D-95E8-780577C3348F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F3877ACA-1178-460D-95E8-780577C3348F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
